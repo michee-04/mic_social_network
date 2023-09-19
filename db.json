@@ -1,0 +1,67 @@
+{
+  "utilisateur": [
+    {
+      "nomUtilisateur": "Nangma",
+      "prenomUtilisateur": "Michée",
+      "mailUtilisateur": "nangmamichee0@gmail.com",
+      "motDePasse": "123456",
+      "motDePasseConfirm": "123456",
+      "id": 1
+    },
+    {
+      "nomUtilisateur": "Macgyver",
+      "prenomUtilisateur": "tyrone",
+      "mailUtilisateur": "mac@gmail.com",
+      "motDePasse": "mac@12",
+      "motDePasseConfirm": "mac@12",
+      "id": 2
+    }
+  ],
+  "publications": [
+    {
+      "textPublication": "Bonjour tout le monde",
+      "imagePublication": "https://img.freepik.com/free-photo/african-student-female-posed-with-backpack-school-items-yard-university-against-flags-different-countries_627829-5984.jpg?w=1380&t=st=1694989459~exp=1694990059~hmac=aa32bdd3a91365c354fda2dffea7cc6d2f86ed37d31ec7894dcc239f7e263aa9",
+      "idUtilisateur": 1,
+      "datePublication": "2023-09-17T22:27:10.506Z",
+      "likePublication": 0,
+      "auteur": "Nangma",
+      "id": 1
+    },
+    {
+      "textPublication": "Développeur frontend",
+      "imagePublication": "https://img.freepik.com/free-photo/ai-site-helping-with-software-production_1268-21620.jpg?w=1480&t=st=1695125760~exp=1695126360~hmac=44ce3ce9187a630ff8056e4c8c00685f5724cb65deee48c79856dc81c269a7a1",
+      "idUtilisateur": 2,
+      "datePublication": "2023-09-19T12:23:18.040Z",
+      "likePublication": 0,
+      "auteur": "Macgyver",
+      "id": 3
+    },
+    {
+      "textPublication": "Salut je suis nouveau",
+      "imagePublication": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901771.jpg?w=1060&t=st=1695127820~exp=1695128420~hmac=d2fcb318fa0c8cf5f17084603a15864f3e3cdf478841c31135f6841556a9212c",
+      "idUtilisateur": 2,
+      "datePublication": "2023-09-19T12:50:41.746Z",
+      "likePublication": 0,
+      "auteur": "Macgyver",
+      "id": 4
+    },
+    {
+      "textPublication": "Hey, j'aime la pizza",
+      "imagePublication": "https://img.freepik.com/free-photo/freshly-baked-pizza-rustic-wooden-table-generated-by-ai_24640-89802.jpg?t=st=1695129675~exp=1695133275~hmac=6ce90f0f21df25e809d4607022f96a654733c03df43d40df6f01273d130d4fa5&w=1380",
+      "idUtilisateur": 2,
+      "datePublication": "2023-09-19T14:27:40.003Z",
+      "likePublication": 0,
+      "auteur": "Macgyver",
+      "id": 5
+    },
+    {
+      "textPublication": "La maison de mes rêves ",
+      "imagePublication": "https://img.freepik.com/free-photo/luxury-pool-villa-spectacular-contemporary-design-digital-art-real-estate-home-house-property-ge_1258-150749.jpg?w=1380&t=st=1695134937~exp=1695135537~hmac=e4db9ad814f5a7be90cc8afa2f948fd85605f3739d6b6a384a68ceea5f030b64",
+      "idUtilisateur": 1,
+      "datePublication": "2023-09-19T14:52:18.764Z",
+      "likePublication": 0,
+      "auteur": "Nangma",
+      "id": 6
+    }
+  ]
+}
